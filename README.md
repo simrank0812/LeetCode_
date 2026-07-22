@@ -58,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/simrank0812/LeetCode_/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/simrank0812/LeetCode_/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/simrank0812/LeetCode_/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/simrank0812/LeetCode_/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
