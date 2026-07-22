@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/simrank0812/LeetCode_/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
