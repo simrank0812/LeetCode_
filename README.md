@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/simrank0812/LeetCode_/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
@@ -119,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/simrank0812/LeetCode_/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
