@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/simrank0812/LeetCode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simrank0812/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/simrank0812/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/simrank0812/LeetCode_/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/simrank0812/LeetCode_/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Breadth-First Search
