@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/simrank0812/LeetCode_/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/simrank0812/LeetCode_/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simrank0812/LeetCode_/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/simrank0812/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/simrank0812/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simrank0812/LeetCode_/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
