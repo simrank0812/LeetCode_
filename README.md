@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/simrank0812/LeetCode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simrank0812/LeetCode_/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/simrank0812/LeetCode_/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/simrank0812/LeetCode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/simrank0812/LeetCode_/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
