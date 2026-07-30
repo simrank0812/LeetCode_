@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simrank0812/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/simrank0812/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/simrank0812/LeetCode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simrank0812/LeetCode_/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/simrank0812/LeetCode_/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/simrank0812/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/simrank0812/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/simrank0812/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
