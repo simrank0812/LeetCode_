@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simrank0812/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/simrank0812/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simrank0812/LeetCode_/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/simrank0812/LeetCode_/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
