@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/simrank0812/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/simrank0812/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/simrank0812/LeetCode_/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simrank0812/LeetCode_/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/simrank0812/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/simrank0812/LeetCode_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/simrank0812/LeetCode_/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
