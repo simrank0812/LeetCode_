@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/simrank0812/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/simrank0812/LeetCode_/tree/master/0994-rotting-oranges) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/simrank0812/LeetCode_/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/simrank0812/LeetCode_/tree/master/0207-course-schedule) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
 | ------- |
