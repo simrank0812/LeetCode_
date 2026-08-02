@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/simrank0812/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/simrank0812/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/simrank0812/LeetCode_/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/simrank0812/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/simrank0812/LeetCode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/simrank0812/LeetCode_/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/simrank0812/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Search
@@ -270,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
