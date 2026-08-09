@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/simrank0812/LeetCode_/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/simrank0812/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/simrank0812/LeetCode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/simrank0812/LeetCode_/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/simrank0812/LeetCode_/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/simrank0812/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,4 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
