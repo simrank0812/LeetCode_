@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/simrank0812/LeetCode_/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/simrank0812/LeetCode_/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/simrank0812/LeetCode_/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/simrank0812/LeetCode_/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/simrank0812/LeetCode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/simrank0812/LeetCode_/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/simrank0812/LeetCode_/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/simrank0812/LeetCode_/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/simrank0812/LeetCode_/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
