@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrank0812/LeetCode_/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/simrank0812/LeetCode_/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/simrank0812/LeetCode_/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/simrank0812/LeetCode_/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/simrank0812/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
+| [3903-smallest-stable-index-i](https://github.com/simrank0812/LeetCode_/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
