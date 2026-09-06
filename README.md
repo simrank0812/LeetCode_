@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/simrank0812/LeetCode_/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/simrank0812/LeetCode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/simrank0812/LeetCode_/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/simrank0812/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/simrank0812/LeetCode_/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/simrank0812/LeetCode_/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simrank0812/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/simrank0812/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
