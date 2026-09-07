@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/simrank0812/LeetCode_/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/simrank0812/LeetCode_/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/simrank0812/LeetCode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/simrank0812/LeetCode_/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/simrank0812/LeetCode_/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/simrank0812/LeetCode_/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/simrank0812/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/simrank0812/LeetCode_/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/simrank0812/LeetCode_/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/simrank0812/LeetCode_/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
