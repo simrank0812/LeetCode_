@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/simrank0812/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simrank0812/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/simrank0812/LeetCode_/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/simrank0812/LeetCode_/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/simrank0812/LeetCode_/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simrank0812/LeetCode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/simrank0812/LeetCode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/simrank0812/LeetCode_/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/simrank0812/LeetCode_/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/simrank0812/LeetCode_/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/simrank0812/LeetCode_/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/simrank0812/LeetCode_/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/simrank0812/LeetCode_/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/simrank0812/LeetCode_/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/simrank0812/LeetCode_/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/simrank0812/LeetCode_/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -287,15 +291,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/simrank0812/LeetCode_/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/simrank0812/LeetCode_/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/simrank0812/LeetCode_/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/simrank0812/LeetCode_/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/simrank0812/LeetCode_/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
@@ -369,9 +376,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/simrank0812/LeetCode_/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simrank0812/LeetCode_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simrank0812/LeetCode_/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
