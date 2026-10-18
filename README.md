@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/simrank0812/LeetCode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/simrank0812/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/simrank0812/LeetCode_/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/simrank0812/LeetCode_/tree/master/0085-maximal-rectangle) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simrank0812/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/simrank0812/LeetCode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/simrank0812/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simrank0812/LeetCode_/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
